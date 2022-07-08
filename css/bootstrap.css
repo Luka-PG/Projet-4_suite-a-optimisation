@@ -3064,6 +3064,10 @@ table th[class*=col-] {
     .table-responsive>.table-bordered>tfoot>tr:last-child>th {
         border-bottom: 0
     }
+
+    .col-sm-12 h2{
+        font-size: 20px;
+    }
 }
 
 fieldset {
