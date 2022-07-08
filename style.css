@@ -775,6 +775,10 @@ h4 {
     background-color: #eb6f35;
 }
 
+.bg-dots-bg .container .col-sm-12 h1, .bg-dots-bg .container .col-sm-12 p{
+    color: black!important;
+}
+
 .tc-white {
     color: #eb6f35!important;
 }
@@ -917,7 +921,7 @@ h4 {
         width: 100%;
     }
     .nav > li:hover {
-        background: rgba(0, 0, 0, .08);
+        background-color: rgba(0, 0, 0, .08);
     }
     .dropdown .dropdown a .caret {
         float: none;
